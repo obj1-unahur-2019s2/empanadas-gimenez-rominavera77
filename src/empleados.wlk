@@ -16,7 +16,8 @@ object baigorria {
 		cantidadEmpanadasVendidas += 1
 	}
  	
-	method sueldo() = cantidadEmpanadasVendidas * montoPorEmpanada
+	method sueldo() = cantidadEmpanadasVendidas * montoPorEmpanada // es igual que el return
+	// method sueldo () {return }
 }
 
 object gimenez {
